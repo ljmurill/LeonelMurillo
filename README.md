@@ -5,8 +5,9 @@
  </div>
 
 
-## Technologies and languages
+
  <div align='center'>
+  <h2> Technologies and Languages </h2>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;           
@@ -22,5 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljmurill&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljmurill&layout=compact)](https://github.com/ljmurill/github-readme-stats)
+<div align='center'>
+ <img src='https://github-readme-stats.vercel.app/api?username=ljmurill&hide=contribs,prs'/>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ljmurill&layout=compact'/>
+ </div>
+

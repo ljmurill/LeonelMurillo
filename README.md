@@ -1,6 +1,8 @@
 
 <div align='center'>
  <h1> Hello, I'm Leonel Murillo 👋 </h1>
+ <div align='center'>
+  
   <a href="https://www.linkedin.com/in/leonel-murillo/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
  </img>
@@ -9,6 +11,7 @@
    <img src=https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black>
  </img>
  </a>
+ </div>
  <img src='https://user-images.githubusercontent.com/72574258/161161750-eea079cf-8bfd-4b80-a3b9-184d92a51e6e.gif'> </img>
  </div>
 
